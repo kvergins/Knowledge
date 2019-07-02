@@ -14,19 +14,19 @@ To achieve your biggest and most ambitious goals, just break it down to small, d
 
 ## Become Outlier
 
-- Compound yourself. Compounding is magic. Look for it everywhere. Exponential curves are the key to wealth generation. 
-- Have self-belief. Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.
-- Learn to think independently. “*I will fail many times, and I will be really right once*” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
-- Be good at sales. Self-belief alone is not sufficient—you also have to be able to convince other people of what you believe.
-- Make it easy to take risks. Most people overestimate risk and underestimate reward. Taking risks is important because it’s impossible to be right all the time—you have to try many things and adapt quickly as you learn more.
-- Focus. Most people waste most of their time on stuff that doesn’t matter.
-- Work hard. Extreme people get extreme results.
-- Be bold. Follow your curiosity. Things that seem exciting to you will often seem exciting to other people too.
-- Be willful. A combination of self-doubt, giving up too early, and not pushing hard enough prevents most people from ever reaching anywhere near their potential.
-- Be hard to compete with. If what you do can be done by someone else, it eventually will be, and for less money.
-- Build a network. An effective way to build a network is to help people as much as you can.
-- You get rich by owning things. You get truly rich by owning things that increase rapidly in value. 
-- Be internally driven. Most people are primarily externally driven; they do what they do because they want to impress other people. Impress yourself.
+- **Compound yourself.** Compounding is magic. Look for it everywhere. Exponential curves are the key to wealth generation. 
+- **Have self-belief.** Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.
+- **Learn to think independently.** “*I will fail many times, and I will be really right once*” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
+- **Be good at sales.** Self-belief alone is not sufficient—you also have to be able to convince other people of what you believe.
+- **Make it easy to take risks.** Most people overestimate risk and underestimate reward. Taking risks is important because it’s impossible to be right all the time—you have to try many things and adapt quickly as you learn more.
+- **Focus.** Most people waste most of their time on stuff that doesn’t matter.
+- **Work hard.** Extreme people get extreme results.
+- **Be bold.** Follow your curiosity. Things that seem exciting to you will often seem exciting to other people too.
+- **Be willful.** A combination of self-doubt, giving up too early, and not pushing hard enough prevents most people from ever reaching anywhere near their potential.
+- **Be hard to compete with.** If what you do can be done by someone else, it eventually will be, and for less money.
+- **Build a network.** An effective way to build a network is to help people as much as you can.
+- **You get rich by owning things.** You get truly rich by owning things that increase rapidly in value. 
+- **Be internally driven.** Most people are primarily externally driven; they do what they do because they want to impress other people. Impress yourself.
 
 ## Links
 

@@ -10,10 +10,58 @@ PMBOK 6 based notes for PMP exam practice.
   - [Motivation Theories](general/motivation-theories.md)
 - Process Groups
   - Initiating
+    - Develop Project Charter
+    - Identify Stakeholders
   - Planning
+    - Develop Project Management Plan
+    - Plan Scope Management
+    - Collect Requirements
+    - Define Scope
+    - Create WBS
+    - Plan Schedule Management
+    - Define Activities
+    - Sequence Activities
+    - Estimate Activity Durations
+    - Develop Schedule
+    - Plan Cost Management
+    - Estimate Costs
+    - Determine Budget
+    - Plan Quality Management
+    - Plan Resource Management
+    - Estimate Activity Resources
+    - Plan Communications Management
+    - Plan Risk Management
+    - Identify Risks
+    - Perform Qualitative Risk Analysis
+    - Perform Quantitative Risk Analysis
+    - Plan Risk Responses
+    - Plan Procurement Management
+    - Plan Stakeholder Engagement
   - Executing
+    - Manage Project Knowledge
+    - Manage Quality
+    - Acquire Resources
+    - Develop Team
+    - Manage Team
+    - Manage Communications
+    - Implement Risk Responses
+    - Conduct Procurements
+    - Manage Stakeholder Engagement
   - Monitoring & Controlling
+    - Monitor and Control Project Work
+    - Perform Integrated Change Control
+    - Validate Scope
+    - Control Scope
+    - Control Schedule
+    - Control Costs
+    - Control Quality
+    - Control Resources
+    - Monitor Communications
+    - Monitor Risks
+    - Control Procurements
+    - Monitor Stakeholder Engagement
   - Closing
+    - Close Project or Phase
 - Knowledge Areas
   - Integration Management
   - Scope Management

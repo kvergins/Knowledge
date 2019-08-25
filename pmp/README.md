@@ -2,8 +2,12 @@
 
 PMBOK 6 based notes for PMP exam practice. 
 
-- [Index](/index)
-  - [Things to Remember](/index/things-to-remember.md)
+- [General](general)
+  - [Things to Remember](general/things-to-remember.md)
+  - [Formulas](general/formulas.md)
+  - [Diagrams](general/diagrams.md)
+  - [Leadership Types](general/leadership-types.md)
+  - [Motivation Theories](general/motivation-theories.md)
 - Process Groups
   - Initiating
   - Planning

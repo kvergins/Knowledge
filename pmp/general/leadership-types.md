@@ -1,7 +1,7 @@
 # Leadership Types
 
-	- *Directing:* This style involves telling others what to do
-	- *Facilitating:* When facilitating, project manager coordinates inputs of others
+	- **Directing**: This style involves telling others what to do
+	- **Facilitating:** When facilitating, project manager coordinates inputs of others
 	- *Coaching:* In coaching, the manager helps others achieve their goals
 	- *Supporting:* A supporting leadership style means the project manager provides assistance along the way
 	- *Autocratic:* This is a top-down approach. Here, the manager has the power to do whatever he or she wants

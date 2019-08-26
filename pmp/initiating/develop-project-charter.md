@@ -33,7 +33,7 @@ Justifies a project in context of an organization’s broader strategic plan
 Should include the project overview, suggested approach and approval information 
 Provides background, information from SOW, definitions for deliverables and milestones 
 
-**Inputs** include business documents, agreements, EEFs and OPAs 
-**Tools & Techniques** include expert judgment, data gathering, interpersonal skills and meetings 
-**Outputs** include the project charter and assumptions log 
+- **Inputs** include business documents, agreements, EEFs and OPAs 
+- **Tools & Techniques** include expert judgment, data gathering, interpersonal skills and meetings 
+- **Outputs** include the project charter and assumptions log 
  

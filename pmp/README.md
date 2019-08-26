@@ -8,10 +8,10 @@ PMBOK 6 based notes for PMP exam practice.
   - [Diagrams](general/diagrams.md)
   - [Leadership Types](general/leadership-types.md)
   - [Motivation Theories](general/motivation-theories.md)
-- Process Groups
-  - Initiating
-    - Develop Project Charter
-    - Identify Stakeholders
+- **Process Groups**
+  - [Initiating](initiating)
+    - [Develop Project Charter](initiating/develop-project-charter.md)
+    - [Identify Stakeholders](initiating/identify-stakeholders.md)
   - Planning
     - Develop Project Management Plan
     - Plan Scope Management
@@ -62,15 +62,64 @@ PMBOK 6 based notes for PMP exam practice.
     - Monitor Stakeholder Engagement
   - Closing
     - Close Project or Phase
-- Knowledge Areas
+- **Knowledge Areas**
   - Integration Management
+    - [Develop Project Charter](initiating/develop-project-charter.md)
+    - Develop Project Management Plan
+    - Direct and Manage Project Work
+    - Manage Project Knowledge
+    - Monitor and Control Project Work
+    - Perform Integrated Change Control
+    - Close Project or Phase
   - Scope Management
+    - Plan Scope Management
+    - Collect Requirements
+    - Define Scope
+    - Create WBS
+    - Validate Scope
+    - Control Scope
   - Schedule Management
+    - Plan Schedule Management
+    - Define Activities
+    - Sequence Activities
+    - Estimate Activity Durations
+    - Develop Schedule
+    - Control Schedule
   - Cost Management
+    - Plan Cost Management
+    - Estimate Costs
+    - Determine Budget
+    - Control Costs
   - Quality Management
+    - Plan Quality Management
+    - Manage Quality
+    - Control Quality
   - Resource Management
+    - Plan Resource Management
+    - Estimate Activity Resources
+    - Acquire Resources
+    - Develop Team
+    - Manage Team
+    - Control Resources
   - Communications Management
+    - Plan Communications Management
+    - Manage Communications
+    - Monitor Communications
   - Risk Management
+    - Plan Risk Management
+    - Identify Risks
+    - Perform Qualitative Risk Analysis
+    - Perform Quantitative Risk Analysis
+    - Plan Risk Responses
+    - Implement Risk Responses
+    - Monitor Risks
   - Procurement Management
+    - Plan Procurement Management
+    - Conduct Procurements
+    - Control Procurements
   - Stakeholder Management
+    - Identify Stakeholders
+    - Plan Stakeholder Engagement
+    - Manage Stakeholder Engagement
+    - Monitor Stakeholder Engagement
 

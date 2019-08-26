@@ -11,7 +11,7 @@
 - **Delegating:** With a delegating style, the manager establishes goals and then gives the project team sufficient authority to complete the work
 - **Bureaucratic:** This style focuses on following procedures exactly
 - **Charismatic:** Charismatic managers energize and encourage their team in performing project work
-- **Democratic or participative:**This style involves encouraging team participation in the decision-making process
+- **Democratic or participative:** This style involves encouraging team participation in the decision-making process
 - **Laissez-faire:** The French term laissez-faire has been translated as meaning allow acting, allow to do, or leave alone. A laissez-faire manager is not directly involved in the work of the team, but manages and consults as necessary. This style can be appropriate with a highly skilled team.
 - **Analytical:** This style depends on the managers own technical knowledge and ability. Analytical managers often make the technical decisions for the project, which they communicate to their teams.
 - **Driver:** A manager with a driver style is constantly giving directions. His or her competitive attitude drives the team to win.

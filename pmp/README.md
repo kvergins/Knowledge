@@ -12,31 +12,31 @@ PMBOK 6 based notes for PMP exam practice.
   - [Initiating](initiating)
     - [Develop Project Charter](initiating/develop-project-charter.md)
     - [Identify Stakeholders](initiating/identify-stakeholders.md)
-  - Planning
-    - Develop Project Management Plan
-    - Plan Scope Management
-    - Collect Requirements
-    - Define Scope
-    - Create WBS
-    - Plan Schedule Management
-    - Define Activities
-    - Sequence Activities
-    - Estimate Activity Durations
-    - Develop Schedule
-    - Plan Cost Management
-    - Estimate Costs
-    - Determine Budget
-    - Plan Quality Management
-    - Plan Resource Management
-    - Estimate Activity Resources
-    - Plan Communications Management
-    - Plan Risk Management
-    - Identify Risks
-    - Perform Qualitative Risk Analysis
-    - Perform Quantitative Risk Analysis
-    - Plan Risk Responses
-    - Plan Procurement Management
-    - Plan Stakeholder Engagement
+  - [Planning](planning)
+    - [Develop Project Management Plan](planning/develop-project-management-plan)
+    - [Plan Scope Management](planning/plan-scope-management)
+    - [Collect Requirements](planning/collect-requirements)
+    - [Define Scope](planning/define-scope)
+    - [Create WBS](planning/create-wbs)
+    - [Plan Schedule Management](planning/plan-schedule-management)
+    - [Define Activities](planning/define-activities)
+    - [Sequence Activities](planning/sequence-activities)
+    - [Estimate Activity Durations](planning/estimate-activity-durations)
+    - [Develop Schedule](planning/develop-schedule)
+    - [Plan Cost Management](planning/plan-cost-management)
+    - [Estimate Costs](planning/estimate-costs)
+    - [Determine Budget](planning/determine-budget)
+    - [Plan Quality Management](planning/plan-quality-management)
+    - [Plan Resource Management](planning/plan-resource-management)
+    - [Estimate Activity Resources](planning/estimate-activity-resources)
+    - [Plan Communications Management](planning/plan-communications-management)
+    - [Plan Risk Management](planning/plan-risk-management)
+    - [Identify Risks](planning/identify-risks)
+    - [Perform Qualitative Risk Analysis](planning/perform-qualitative-risk-analysis)
+    - [Perform Quantitative Risk Analysis](planning/perform-quantitative-risk-analysis)
+    - [Plan Risk Responses](planning/plan-risk-responses)
+    - [Plan Procurement Management](planning/plan-procurement-management)
+    - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement)
   - Executing
     - Manage Project Knowledge
     - Manage Quality
@@ -65,61 +65,61 @@ PMBOK 6 based notes for PMP exam practice.
 - **Knowledge Areas**
   - Integration Management
     - [Develop Project Charter](initiating/develop-project-charter.md)
-    - Develop Project Management Plan
+    - [Develop Project Management Plan](planning/develop-project-management-plan)
     - Direct and Manage Project Work
     - Manage Project Knowledge
     - Monitor and Control Project Work
     - Perform Integrated Change Control
     - Close Project or Phase
   - Scope Management
-    - Plan Scope Management
-    - Collect Requirements
-    - Define Scope
-    - Create WBS
+    - [Plan Scope Management](planning/plan-scope-management)
+    - [Collect Requirements](planning/collect-requirements)
+    - [Define Scope](planning/define-scope)
+    - [Create WBS](planning/create-wbs)
     - Validate Scope
     - Control Scope
   - Schedule Management
-    - Plan Schedule Management
-    - Define Activities
-    - Sequence Activities
-    - Estimate Activity Durations
-    - Develop Schedule
+    - [Plan Schedule Management](planning/plan-schedule-management)
+    - [Define Activities](planning/define-activities)
+    - [Sequence Activities](planning/sequence-activities)
+    - [Estimate Activity Durations](planning/estimate-activity-durations)
+    - [Develop Schedule](planning/develop-schedule)
     - Control Schedule
   - Cost Management
-    - Plan Cost Management
-    - Estimate Costs
-    - Determine Budget
+    - [Plan Cost Management](planning/plan-cost-management)
+    - [Estimate Costs](planning/estimate-costs)
+    - [Determine Budget](planning/determine-budget)
     - Control Costs
   - Quality Management
-    - Plan Quality Management
+    - [Plan Quality Management](planning/plan-quality-management)
     - Manage Quality
     - Control Quality
   - Resource Management
-    - Plan Resource Management
-    - Estimate Activity Resources
+    - [Plan Resource Management](planning/plan-resource-management)
+    - [Estimate Activity Resources](planning/estimate-activity-resources)
     - Acquire Resources
     - Develop Team
     - Manage Team
     - Control Resources
   - Communications Management
-    - Plan Communications Management
+    - [Plan Communications Management](planning/plan-communications-management)
     - Manage Communications
     - Monitor Communications
   - Risk Management
-    - Plan Risk Management
-    - Identify Risks
-    - Perform Qualitative Risk Analysis
-    - Perform Quantitative Risk Analysis
-    - Plan Risk Responses
+    - [Plan Risk Management](planning/plan-risk-management)
+    - [Identify Risks](planning/identify-risks)
+    - [Perform Qualitative Risk Analysis](planning/perform-qualitative-risk-analysis)
+    - [Perform Quantitative Risk Analysis](planning/perform-quantitative-risk-analysis)
+    - [Plan Risk Responses](planning/plan-risk-responses)
     - Implement Risk Responses
     - Monitor Risks
   - Procurement Management
-    - Plan Procurement Management
+    - [Plan Procurement Management](planning/plan-procurement-management)
     - Conduct Procurements
     - Control Procurements
   - Stakeholder Management
     - Identify Stakeholders
-    - Plan Stakeholder Engagement
+    - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement)
     - Manage Stakeholder Engagement
     - Monitor Stakeholder Engagement
 

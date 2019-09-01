@@ -12,6 +12,8 @@
 - Unknown risks addressed with **management reserves**
 - Risk appetite, tolerance and thresholds can determine what risks will be acceptable to the organization and project stakeholders 
 
-- **Inputs:** Project charter, project management plan, project documents, EEFs and OPAs 
-- **Tools & Techniques:** Expert judgment, data analysis, meetings 
-- **Output:** Risk management plan 
+---
+
+**Inputs:** Project charter, project management plan, project documents, EEFs and OPAs    
+**Tools & Techniques:** Expert judgment, data analysis, meetings    
+**Output:** Risk management plan     

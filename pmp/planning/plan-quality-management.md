@@ -8,6 +8,8 @@
 - May be more or less formal, more or less detailed based on project needs 
 - Quality influences – and is influenced by – scope, risk, cost and schedule 
 
-- **Inputs:** Project charter, project management plan, project documents, EEFs & OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, test and inspection planning, meetings 
-- **Outputs:** Quality management plan, quality metrics, project management plan updates, project documents updates
+---
+
+**Inputs:** Project charter, project management plan, project documents, EEFs & OPAs     
+**Tools & Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, test and inspection planning, meetings     
+**Outputs:** Quality management plan, quality metrics, project management plan updates, project documents updates    

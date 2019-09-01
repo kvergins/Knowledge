@@ -12,6 +12,8 @@
 - **Lead–** Amount of time an activity may be moved up to begin closer to or alongside predecessor 
 - **Lag–** Amount of time that must pass until a successor activity may begin 
 
-- **Inputs:** Project management plan, project documents, EEFs and OPAs 
-- **Tools & Techniques:** Precedence diagramming method, dependency determination and integration, leads and lags, and PMIS 
-- **Outputs:** Project schedule network diagrams and project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs and OPAs     
+**Tools & Techniques:** Precedence diagramming method, dependency determination and integration, leads and lags, and PMIS    
+**Outputs:** Project schedule network diagrams and project documents updates    

@@ -10,6 +10,8 @@ Must be understood in great enough detail to be included in scope baseline and u
 - **Business Requirements** – Stakeholder needs 
 - **Technical Requirements** – How to *fulfill* stakeholder needs 
 
-- **Inputs:** Project charter, project management plan, project documents, business documents, agreements, EEFs & OPAs 
-- **Tools and Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, interpersonal skills, context diagrams and prototypes 
-- **Outputs:** Requirements documentation and requirements traceability matrix 
+---
+
+**Inputs:** Project charter, project management plan, project documents, business documents, agreements, EEFs & OPAs   
+**Tools and Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, interpersonal skills, context diagrams and prototypes    
+**Outputs:** Requirements documentation and requirements traceability matrix 

@@ -10,6 +10,8 @@
 - **Resource Breakdown Structures** sort project resources graphically by type and category 
 - **Bottom-up Estimating** aggregates duration or cost estimates beginning at the activity level 
 
-- **Inputs:** Project management plan, project documents, EEFs & OPAs 
-- **Tools & Techniques:** Expert judgment, bottom-up estimating, analogous estimating, parametric estimating, data analysis, project management information system and meetings 
-- **Outputs:** Resource requirements, basis of estimates, resource breakdown structure and project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs & OPAs    
+**Tools & Techniques:** Expert judgment, bottom-up estimating, analogous estimating, parametric estimating, data analysis, project management information system and meetings    
+**Outputs:** Resource requirements, basis of estimates, resource breakdown structure and project documents updates    

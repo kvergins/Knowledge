@@ -29,6 +29,8 @@
 - Sources selected based on a wide variety of factors 
 - Source understanding, cost, capabilities, risk and approach among the chief attributes considered 
 
-- **Inputs:** Project charter, business documents, project management plan, project documents, EEFs, OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, data analysis, source selection analysis, meetings 
-- **Outputs:** Procurement management plan, procurement strategy, bid documents, procurement statement of work, source selection criteria, make-or-buy decisions, independent cost estimates, change requests, project documents updates, OPA updates 
+---
+
+**Inputs:** Project charter, business documents, project management plan, project documents, EEFs, OPAs    
+**Tools & Techniques:** Expert judgment, data gathering, data analysis, source selection analysis, meetings    
+**Outputs:** Procurement management plan, procurement strategy, bid documents, procurement statement of work, source selection criteria, make-or-buy decisions, independent cost estimates, change requests, project documents updates, OPA updates     

@@ -17,6 +17,8 @@
 - **Risk ratings:** Developed by multiplying probability and impact, often tweaked to account for urgency 
 - **Probability and impact matrix:** Used to visualize and prioritize project risks with varying attributes 
 
-- **Inputs:** Project management plan, project documents, EEFs and OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, data analysis, interpersonal/team skills, risk categorization, data representation, meetings 
-- **Output:** Project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs and OPAs    
+**Tools & Techniques:** Expert judgment, data gathering, data analysis, interpersonal/team skills, risk categorization, data representation, meetings    
+**Output:** Project documents updates     

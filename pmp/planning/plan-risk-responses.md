@@ -14,6 +14,8 @@
 ### Responding to Positive Events
 - Exploitation, Enhancement, Sharing, Acceptance, Escalate 
 
-- **Inputs:** Project management plan, project documents, EEFs, OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, interpersonal/team skills, strategies for threats and opportunities, contingent response strategies, strategies for overall project risk, data analysis, decision-making techniques 
-- **Output:** Change requests, project management plan updates, project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs, OPAs    
+**Tools & Techniques:** Expert judgment, data gathering, interpersonal/team skills, strategies for threats and opportunities, contingent response strategies, strategies for overall project risk, data analysis, decision-making techniques    
+**Output:** Change requests, project management plan updates, project documents updates    

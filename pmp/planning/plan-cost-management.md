@@ -10,6 +10,8 @@
 - Reliant on various OPAs 
 - Dependent on experience of project team and leadership 
 
-- **Inputs:** Project management plan, project charter, EEFs and OPAs 
-- **Tools & Techniques:** Expert judgment, data analysis and meetings 
-- **Outputs:** Cost management plan 
+---
+
+**Inputs:** Project management plan, project charter, EEFs and OPAs    
+**Tools & Techniques:** Expert judgment, data analysis and meetings    
+**Outputs:** Cost management plan    

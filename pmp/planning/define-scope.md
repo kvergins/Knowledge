@@ -10,6 +10,8 @@
 - Fosters common understanding of project scope by all key stakeholders 
 - Guides execution and control of project work 
 
-- **Inputs:** Project charter, scope management plan, project documents, EEFs, and OPAs 
-- **Tools & Techniques:** Expert judgment, data analysis, decision making techniques, interpersonal skills, and product analysis 
-- **Outputs:** Project scope statement and project documents updates 
+---
+
+**Inputs:** Project charter, scope management plan, project documents, EEFs, and OPAs    
+**Tools & Techniques:** Expert judgment, data analysis, decision making techniques, interpersonal skills, and product analysis    
+**Outputs:** Project scope statement and project documents updates    

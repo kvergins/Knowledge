@@ -9,6 +9,8 @@
 - Details how variances from baseline should be reported and assessed 
 - May be updated to account for changes in how project schedule is managed 
 
-- **Inputs** include project management plan, project charter, EEFs and OPAs 
-- **Tools & Techniques** include expert judgment, data analysis and meetings 
-- **Outputs** include the schedule management plan 
+---
+
+**Inputs** include project management plan, project charter, EEFs and OPAs    
+**Tools & Techniques** include expert judgment, data analysis and meetings    
+**Outputs** include the schedule management plan    

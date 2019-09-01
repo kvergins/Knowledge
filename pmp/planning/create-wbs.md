@@ -9,6 +9,8 @@
 - May be organized by project phase, deliverable component, organizational department or other means 
 - All items are assigned an ID number associated with an entry in the **WBS Dictionary**
 
-**Inputs** include scope management plan, project scope statement, requirements documentation, EEFs and OPAs   
-**Tools & Techniques** include decomposition and expert judgment    
-**Outputs** include the scope baseline (Scope Statement + WBS + WBS Dictionary) and project documents updates    
+---
+
+**Inputs** include scope management plan, project scope statement, requirements documentation, EEFs and OPAs      
+**Tools & Techniques** include decomposition and expert judgment      
+**Outputs** include the scope baseline (Scope Statement + WBS + WBS Dictionary) and project documents updates     

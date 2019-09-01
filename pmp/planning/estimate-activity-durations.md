@@ -15,6 +15,8 @@
 - **Contingency Reserves** tackle known risks that may arise during a project 
 - **Management Reserves** tackle unknown risks that may arise during a project 
 
-- **Inputs:** Project management plan, project documents, EEFs, & OPAs 
-- **Tools & Techniques:** Expert judgment, analogous estimating, parametric estimating, three point estimating, bottom-up estimating, data analysis, decision-making techniques and meetings 
-- **Outputs:** Duration estimates, basis of estimates, and project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs, & OPAs     
+**Tools & Techniques:** Expert judgment, analogous estimating, parametric estimating, three point estimating, bottom-up estimating, data analysis, decision-making techniques and meetings     
+**Outputs:** Duration estimates, basis of estimates, and project documents updates     

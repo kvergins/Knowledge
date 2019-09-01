@@ -7,6 +7,8 @@
 - Resource usage typically most intense at the peak of project execution 
 - Plans for resource acquisition, development, utilization, and release are central to resource management 
 
-- **Inputs:** Project charter, project management plan, project documents, EEFs & OPAs 
-- **Tools & Techniques:** Expert judgment, data representation, organizational theory, meetings 
-- **Output:** Resource management plan, team charter, project documents updates 
+---
+
+**Inputs:** Project charter, project management plan, project documents, EEFs & OPAs    
+**Tools & Techniques:** Expert judgment, data representation, organizational theory, meetings    
+**Output:** Resource management plan, team charter, project documents updates    

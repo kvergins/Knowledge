@@ -17,8 +17,10 @@
 - **Analogous Estimating:** Basing estimates on similar historical experiences 
 - **Parametric Estimating:** Developing formulas that use historical data to generate estimates 
 - **Three-point Estimating:** Generating pessimistic, optimistic and most likely scenarios based on historical data 
-**Ground-up Estimating:** Building aggregated estimates at higher levels based on activity or work package-level estimates 
+- **Ground-up Estimating:** Building aggregated estimates at higher levels based on activity or work package-level estimates 
 
-- **Inputs:** Project management plan, project documents, EEFs & OPAs 
-- **Tools & Techniques:** Expert judgment; analogous, parametric, bottom-up, and three-point estimating; data analysis; project management information system; decision-making techniques 
-- **Outputs:** Cost estimates, basis of estimates, project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs & OPAs    
+**Tools & Techniques:** Expert judgment; analogous, parametric, bottom-up, and three-point estimating; data analysis; project management information system; decision-making techniques    
+**Outputs:** Cost estimates, basis of estimates, project documents updates     

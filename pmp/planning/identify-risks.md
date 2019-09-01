@@ -9,6 +9,8 @@
 - Risk statements include an overview of a risk, information on its potential triggers and impact 
 - Similarly structured risk statements allow for comparisons to take place 
 
-- **Inputs:**Project management plan, project documents, agreements, procurement documentation, EEFs, OPAs 
-- **Tools & Techniques:**Expert judgment, data gathering, data analysis, interpersonal & team skills, prompt lists, meetings 
-- **Outputs:**Risk register, risk report, project documents updates 
+---
+
+**Inputs:**Project management plan, project documents, agreements, procurement documentation, EEFs, OPAs    
+**Tools & Techniques:**Expert judgment, data gathering, data analysis, interpersonal & team skills, prompt lists, meetings    
+**Outputs:**Risk register, risk report, project documents updates    

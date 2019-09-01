@@ -11,6 +11,8 @@
 - **Scaling:** Channels = **n(n-1)/2**, n = # of stakeholders 
 - **Noise:** Differences in expertise, language, cultures, technology factors and context can all add noise to messages, corrupting/disrupting their meaning 
  
-- **Inputs:** Project charter, project management plan, project documents, EEFs & OPAs 
-- **Tools & Techniques:** Expert judgment, communication requirements analysis, communication models, communication methods, interpersonal/team skills, data representation, meetings 
-- **Output:** Communication management plan, project management plan updates, project documents updates 
+---
+
+**Inputs:** Project charter, project management plan, project documents, EEFs & OPAs    
+**Tools & Techniques:** Expert judgment, communication requirements analysis, communication models, communication methods, interpersonal/team skills, data representation, meetings     
+**Output:** Communication management plan, project management plan updates, project documents updates     

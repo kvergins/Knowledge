@@ -17,6 +17,8 @@
 - Outlines how engagement will be managed throughout project 
 - Must be reviewed often as stakeholders enter and leave project environment and stakeholder relationships evolve 
 
-- **Inputs:** Project charter, project management plan, project documents, agreements, EEFs, OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, meetings 
-- **Output:** Stakeholder management plan 
+---
+
+**Inputs:** Project charter, project management plan, project documents, agreements, EEFs, OPAs    
+**Tools & Techniques:** Expert judgment, data gathering, data analysis, decision making, data representation, meetings    
+**Output:** Stakeholder management plan    

@@ -18,6 +18,8 @@ and consolidating them into an integrated project management plan.
 - Provides detail related to process execution and project life cycle considerations 
 - Describes how decisions will be made, issues resolved 
 
-- **Inputs** include the project charter, EEFs, OPAs and outputs of other processes
-- **Tools & Techniques** include expert judgment, data gathering, interpersonal skills, and meetings 
-- The process **output** is the Project Management Plan and its subsidiary plans 
+---
+
+**Inputs** include the project charter, EEFs, OPAs and outputs of other processes    
+**Tools & Techniques** include expert judgment, data gathering, interpersonal skills, and meetings    
+The process **output** is the Project Management Plan and its subsidiary plans    

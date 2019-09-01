@@ -6,6 +6,8 @@
 - An activity list is created alongside or following the creation of the Work Breakdown Structure 
 - Activities may be progressively elaborated as project progresses 
 
-- **Inputs:** Schedule management plan, scope baseline, EEFs, and OPAs 
-- **Tools & Techniques:** Decomposition, rolling wave planning, expert judgment, and meetings 
-- **Outputs:** Activity list, activity attributes, the milestone list, change requests, and project management plan updates 
+---
+
+**Inputs:** Schedule management plan, scope baseline, EEFs, and OPAs   
+**Tools & Techniques:** Decomposition, rolling wave planning, expert judgment, and meetings    
+**Outputs:** Activity list, activity attributes, the milestone list, change requests, and project management plan updates    

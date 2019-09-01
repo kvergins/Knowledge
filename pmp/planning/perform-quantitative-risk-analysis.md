@@ -8,6 +8,8 @@
 - Expertise gained from interviews is essential to generating estimates and analyzing risks 
 - Probability distributions show the range of risk outcome possibilities 
 
-- **Inputs:** Project management plan, project documents, EEFs, OPAs 
-- **Tools & Techniques:** Expert judgment, data gathering, interpersonal/team skills, representations of uncertainty, data analysis 
-- **Output:** Project documents updates 
+---
+
+**Inputs:** Project management plan, project documents, EEFs, OPAs    
+**Tools & Techniques:** Expert judgment, data gathering, interpersonal/team skills, representations of uncertainty, data analysis    
+**Output:** Project documents updates    

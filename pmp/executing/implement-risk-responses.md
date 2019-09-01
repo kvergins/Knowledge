@@ -9,6 +9,8 @@
 - Responses should be implemented in accordance with Plan Risk Response efforts 
 - Results of implementation should be checked by Monitor Risks process 
 
+---
+
 **Inputs:** Project management plan, project documents, OPAs    
 **Tools & Techniques:** Expert judgment, interpersonal/team skills, project management information system    
 **Output:** Change requests, project documents updates    

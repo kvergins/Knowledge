@@ -13,6 +13,8 @@
 - Decision to take action is *not*part of this process 
 - Requesting actions and acting upon approved requests *are* parts of this process 
 
+---
+
 **Inputs:** Project management plan, project documents, approved change requests, EEFs and OPAs    
 **Tools & Techniques:** Expert judgment, project management information system and meetings     
 **Outputs:** Project deliverables, work performance data, issue log, change requests, project plan updates, project document updates, and OPA updates    

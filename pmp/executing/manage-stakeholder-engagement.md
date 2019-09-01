@@ -10,6 +10,8 @@
 - Effective engagement requires anticipating challenges 
 - Analyzing project benefit to key stakeholders can help ensure project work aligns with objectives 
 
+---
+
 **Inputs:** Project management plan, project documents, EEFs, OPAs    
 **Tools & Techniques:** Expert judgment, communication skills, interpersonal/team skills, ground rules, meetings    
 **Outputs:** Change requests, project management plan updates, project documents updates    

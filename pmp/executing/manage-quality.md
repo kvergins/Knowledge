@@ -11,6 +11,8 @@
 - Responsible for continuous improvement initiatives 
 - May be handled by a department independent of the project team
 
+---
+
 **Inputs:** Project management plan, project documents, OPAs    
 **Tools & Techniques:** Data gathering, data analysis, decision making, data representation, audits, design for X, problem solving, quality improvement methods    
 **Outputs:** Quality reports, test and evaluation documents, change requests, project management plan updates, project documents updates    

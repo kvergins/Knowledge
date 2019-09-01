@@ -14,6 +14,8 @@
 - Listening is a critical aspect of successful communications 
 - Selection and use of communications technologies requires mindfulness 
 
+---
+
 **Inputs:** Communications management plan, work performance reports, EEFs & OPAs    
 **Tools & Techniques:** Communication technology, models, methods; project management information systems, performance reporting, interpersonal and team skills, meetings    
 **Output:** Project communications, project management plan updates, project documents updates, OPA updates    

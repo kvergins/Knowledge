@@ -15,6 +15,8 @@
 	- Force/Direct 
 	- Compromise/Reconcile 
 
+---
+
 **Inputs:** Project management plan, project documents, work performance reports, team performance assessments, EEFs, OPAs    
 **Tools & Techniques:** Interpersonal and team skills, project management information system    
 **Outputs:** Change requests, project management plan updates, project documents updates, EEF updates    

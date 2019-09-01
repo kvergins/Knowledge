@@ -13,6 +13,8 @@
 - Knowledge may be shared through a variety of communication methods 
 - Capture, indexing, and storage of information empowers knowledge generation 
 
+---
+
 **Inputs:** Project management plan, project documents, deliverables, EEFs and OPAs     
 **Tools & Techniques:** Expert judgment, knowledge and information management, and interpersonal skills    
 **Outputs:** Lessons learned register, project management plan updates, OPA updates    

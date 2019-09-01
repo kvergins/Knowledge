@@ -15,7 +15,7 @@ Level of authority
 Level of influence
 Level of interest
 Level of involvement Classification grids & models 
-
+---
 **Inputs:** Project charter, business documents, project management plan, project documents, agreements, EEFs, OPAs   
 **Tools & Techniques:** Expert judgment, data gathering, data analysis, data representation, meetings   
 **Outputs:** Stakeholder register, change requests, project management plan updates, project documents updates   

@@ -37,16 +37,17 @@ PMBOK 6 based notes for PMP exam practice.
     - [Plan Risk Responses](planning/plan-risk-responses.md)
     - [Plan Procurement Management](planning/plan-procurement-management.md)
     - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement.md)
-  - Executing
-    - Manage Project Knowledge
-    - Manage Quality
-    - Acquire Resources
-    - Develop Team
-    - Manage Team
-    - Manage Communications
-    - Implement Risk Responses
-    - Conduct Procurements
-    - Manage Stakeholder Engagement
+  - [Executing](executing/.md)
+    - [Direct and Manage Project Work](executing/direct-and-manage-project-work.md)
+    - [Manage Project Knowledge](executing/manage-project-knowledge.md)
+    - [Manage Quality](executing/manage-quality.md)
+    - [Acquire Resources](executing/acquire-resources.md)
+    - [Develop Team](executing/develop-team].md)
+    - [Manage Team](executing/manage-team.md)
+    - [Manage Communications](executing/manage-communications.md)
+    - [Implement Risk Responses](executing/implement-risk-responses.md)
+    - [Conduct Procurements](executing/conduct-procurements.md)
+    - [Manage Stakeholder Engagement](executing/manage-stakeholder-engagement.md)
   - Monitoring & Controlling
     - Monitor and Control Project Work
     - Perform Integrated Change Control
@@ -66,8 +67,8 @@ PMBOK 6 based notes for PMP exam practice.
   - Integration Management
     - [Develop Project Charter](initiating/develop-project-charter.md)
     - [Develop Project Management Plan](planning/develop-project-management-plan.md)
-    - Direct and Manage Project Work
-    - Manage Project Knowledge
+    - [Direct and Manage Project Work](executing/direct-and-manage-project-work.md)
+    - [Manage Project Knowledge](executing/manage-project-knowledge.md)
     - Monitor and Control Project Work
     - Perform Integrated Change Control
     - Close Project or Phase
@@ -92,18 +93,18 @@ PMBOK 6 based notes for PMP exam practice.
     - Control Costs
   - Quality Management
     - [Plan Quality Management](planning/plan-quality-management.md)
-    - Manage Quality
+    - [Manage Quality](executing/manage-quality.md)
     - Control Quality
   - Resource Management
     - [Plan Resource Management](planning/plan-resource-management.md)
     - [Estimate Activity Resources](planning/estimate-activity-resources.md)
-    - Acquire Resources
-    - Develop Team
-    - Manage Team
+    - [Acquire Resources](executing/acquire-resources.md)
+    - [Develop Team](executing/develop-team].md)
+    - [Manage Team](executing/manage-team.md)
     - Control Resources
   - Communications Management
     - [Plan Communications Management](planning/plan-communications-management.md)
-    - Manage Communications
+    - [Manage Communications](executing/manage-communications.md)
     - Monitor Communications
   - Risk Management
     - [Plan Risk Management](planning/plan-risk-management.md)
@@ -111,15 +112,15 @@ PMBOK 6 based notes for PMP exam practice.
     - [Perform Qualitative Risk Analysis](planning/perform-qualitative-risk-analysis.md)
     - [Perform Quantitative Risk Analysis](planning/perform-quantitative-risk-analysis.md)
     - [Plan Risk Responses](planning/plan-risk-responses.md)
-    - Implement Risk Responses
+    - [Implement Risk Responses](executing/implement-risk-responses.md)
     - Monitor Risks
   - Procurement Management
     - [Plan Procurement Management](planning/plan-procurement-management.md)
-    - Conduct Procurements
+    - [Conduct Procurements](executing/conduct-procurements.md)
     - Control Procurements
   - Stakeholder Management
     - Identify Stakeholders
     - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement.md)
-    - Manage Stakeholder Engagement
+    - [Manage Stakeholder Engagement](executing/manage-stakeholder-engagement.md)
     - Monitor Stakeholder Engagement
 

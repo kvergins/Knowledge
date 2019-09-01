@@ -42,7 +42,7 @@ PMBOK 6 based notes for PMP exam practice.
     - [Manage Project Knowledge](executing/manage-project-knowledge.md)
     - [Manage Quality](executing/manage-quality.md)
     - [Acquire Resources](executing/acquire-resources.md)
-    - [Develop Team](executing/develop-team].md)
+    - [Develop Team](executing/develop-team.md)
     - [Manage Team](executing/manage-team.md)
     - [Manage Communications](executing/manage-communications.md)
     - [Implement Risk Responses](executing/implement-risk-responses.md)

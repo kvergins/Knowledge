@@ -48,19 +48,19 @@ PMBOK 6 based notes for PMP exam practice.
     - [Implement Risk Responses](executing/implement-risk-responses.md)
     - [Conduct Procurements](executing/conduct-procurements.md)
     - [Manage Stakeholder Engagement](executing/manage-stakeholder-engagement.md)
-  - Monitoring & Controlling
-    - Monitor and Control Project Work
-    - Perform Integrated Change Control
-    - Validate Scope
-    - Control Scope
-    - Control Schedule
-    - Control Costs
-    - Control Quality
-    - Control Resources
-    - Monitor Communications
-    - Monitor Risks
-    - Control Procurements
-    - Monitor Stakeholder Engagement
+  - [Monitoring & Controlling](monitoring&controlling)
+    - [Monitor and Control Project Work](monitoring&controlling/monitor-and-control-project-work.md)
+    - [Perform Integrated Change Control](monitoring&controlling/perform-integrated-change-control.md)
+    - [Validate Scope](monitoring&controlling/validate-scope.md)
+    - [Control Scope](monitoring&controlling/control-scope.md)
+    - [Control Schedule](monitoring&controlling/control-schedule.md)
+    - [Control Costs](monitoring&controlling/control-costs.md)
+    - [Control Quality](monitoring&controlling/control-quality.md)
+    - [Control Resources](monitoring&controlling/control-resources.md)
+    - [Monitor Communications](monitoring&controlling/monitor-communications.md)
+    - [Monitor Risks](monitoring&controlling/monitor-risks.md)
+    - [Control Procurements](monitoring&controlling/control-procurements.md)
+    - [Monitor Stakeholder Engagement](monitoring&controlling/monitor-stakeholder-engagement.md)
   - Closing
     - Close Project or Phase
 - **Knowledge Areas**
@@ -69,43 +69,43 @@ PMBOK 6 based notes for PMP exam practice.
     - [Develop Project Management Plan](planning/develop-project-management-plan.md)
     - [Direct and Manage Project Work](executing/direct-and-manage-project-work.md)
     - [Manage Project Knowledge](executing/manage-project-knowledge.md)
-    - Monitor and Control Project Work
-    - Perform Integrated Change Control
+    - [Monitor and Control Project Work](monitoring&controlling/monitor-and-control-project-work.md)
+    - [Perform Integrated Change Control](monitoring&controlling/perform-integrated-change-control.md)
     - Close Project or Phase
   - Scope Management
     - [Plan Scope Management](planning/plan-scope-management.md)
     - [Collect Requirements](planning/collect-requirements.md)
     - [Define Scope](planning/define-scope.md)
     - [Create WBS](planning/create-wbs.md)
-    - Validate Scope
-    - Control Scope
+    - [Validate Scope](monitoring&controlling/validate-scope.md)
+    - [Control Scope](monitoring&controlling/control-scope.md)
   - Schedule Management
     - [Plan Schedule Management](planning/plan-schedule-management.md)
     - [Define Activities](planning/define-activities.md)
     - [Sequence Activities](planning/sequence-activities.md)
     - [Estimate Activity Durations](planning/estimate-activity-durations.md)
     - [Develop Schedule](planning/develop-schedule.md)
-    - Control Schedule
+    - [Control Schedule](monitoring&controlling/control-schedule.md)
   - Cost Management
     - [Plan Cost Management](planning/plan-cost-management.md)
     - [Estimate Costs](planning/estimate-costs.md)
     - [Determine Budget](planning/determine-budget.md)
-    - Control Costs
+    - [Control Costs](monitoring&controlling/control-costs.md)
   - Quality Management
     - [Plan Quality Management](planning/plan-quality-management.md)
     - [Manage Quality](executing/manage-quality.md)
-    - Control Quality
+    - [Control Quality](monitoring&controlling/control-quality.md)
   - Resource Management
     - [Plan Resource Management](planning/plan-resource-management.md)
     - [Estimate Activity Resources](planning/estimate-activity-resources.md)
     - [Acquire Resources](executing/acquire-resources.md)
     - [Develop Team](executing/develop-team].md)
     - [Manage Team](executing/manage-team.md)
-    - Control Resources
+    - [Control Resources](monitoring&controlling/control-resources.md)
   - Communications Management
     - [Plan Communications Management](planning/plan-communications-management.md)
     - [Manage Communications](executing/manage-communications.md)
-    - Monitor Communications
+    - [Monitor Communications](monitoring&controlling/monitor-communications.md)
   - Risk Management
     - [Plan Risk Management](planning/plan-risk-management.md)
     - [Identify Risks](planning/identify-risks)
@@ -113,14 +113,14 @@ PMBOK 6 based notes for PMP exam practice.
     - [Perform Quantitative Risk Analysis](planning/perform-quantitative-risk-analysis.md)
     - [Plan Risk Responses](planning/plan-risk-responses.md)
     - [Implement Risk Responses](executing/implement-risk-responses.md)
-    - Monitor Risks
+    - [Monitor Risks](monitoring&controlling/monitor-risks.md)
   - Procurement Management
     - [Plan Procurement Management](planning/plan-procurement-management.md)
     - [Conduct Procurements](executing/conduct-procurements.md)
-    - Control Procurements
+    - [Control Procurements](monitoring&controlling/control-procurements.md)
   - Stakeholder Management
-    - Identify Stakeholders
+    - [Identify Stakeholders](initiating/identify-stakeholders.md)
     - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement.md)
     - [Manage Stakeholder Engagement](executing/manage-stakeholder-engagement.md)
-    - Monitor Stakeholder Engagement
+    - [Monitor Stakeholder Engagement](monitoring&controlling/monitor-stakeholder-engagement.md)
 

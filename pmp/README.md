@@ -37,7 +37,7 @@ PMBOK 6 based notes for PMP exam practice.
     - [Plan Risk Responses](planning/plan-risk-responses.md)
     - [Plan Procurement Management](planning/plan-procurement-management.md)
     - [Plan Stakeholder Engagement](planning/plan-stakeholder-engagement.md)
-  - [Executing](executing/.md)
+  - [Executing](executing)
     - [Direct and Manage Project Work](executing/direct-and-manage-project-work.md)
     - [Manage Project Knowledge](executing/manage-project-knowledge.md)
     - [Manage Quality](executing/manage-quality.md)
@@ -61,8 +61,8 @@ PMBOK 6 based notes for PMP exam practice.
     - [Monitor Risks](monitoring&controlling/monitor-risks.md)
     - [Control Procurements](monitoring&controlling/control-procurements.md)
     - [Monitor Stakeholder Engagement](monitoring&controlling/monitor-stakeholder-engagement.md)
-  - Closing
-    - Close Project or Phase
+  - [Closing](closing)
+    - [Close Project or Phase](closing/close-project-or-phase.md)
 - **Knowledge Areas**
   - Integration Management
     - [Develop Project Charter](initiating/develop-project-charter.md)
@@ -71,7 +71,7 @@ PMBOK 6 based notes for PMP exam practice.
     - [Manage Project Knowledge](executing/manage-project-knowledge.md)
     - [Monitor and Control Project Work](monitoring&controlling/monitor-and-control-project-work.md)
     - [Perform Integrated Change Control](monitoring&controlling/perform-integrated-change-control.md)
-    - Close Project or Phase
+    - [Close Project or Phase](closing/close-project-or-phase.md)
   - Scope Management
     - [Plan Scope Management](planning/plan-scope-management.md)
     - [Collect Requirements](planning/collect-requirements.md)

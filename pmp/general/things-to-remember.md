@@ -1,7 +1,7 @@
 # Things to Remember 
 
-## Organisation types
-![](things-to-remember/PMP%20knowledge%20base.jpeg)
+## Organization types
+![Organization types](img/organisation-types.jpeg)
 
 ## PMO types
 - Supportive
